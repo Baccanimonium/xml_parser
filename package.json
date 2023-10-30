@@ -6,10 +6,18 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "fast-xml-parser": "^4.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-spring": "^9.5.2",
+    "styled-components": "^5.3.3",
+    "axios": "^0.26.0",
+    "dayjs": "^1.10.7",
+    "lodash": "^4.17.21",
+    "react-perfect-scrollbar": "^1.5.8",
+    "recoil": "^0.6.1",
+    "simplebar-react": "^2.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
   }
 }
